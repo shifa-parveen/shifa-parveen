@@ -22,10 +22,10 @@ I work with **Python**, **SQL**, **Excel**, and **Power BI** to explore, clean, 
 
 📊 Featured Projects
 
-- 🔹 [E-commerce Sales Dashboard](Ehttps://github.com/shifa-parveen/Data-Analysis-project/blob/main/Ecommmerce%20sales%20dashboard.pbix): Power BI dashboard analyzing revenue, orders, and customer behavior.
-- 🔹 [Phone Usage India](https://github.com/your-link): SQL and Python project uncovering telecom usage trends across regions.
-- 🔹 [Finance Data Insights](https://github.com/your-link): Excel + Power BI project analyzing personal spending and financial habits.
-- 🔹 [Salary Dataset Analysis](https://github.com/shifa-parveen/Data-Projects): Python-based data exploration and visualization project uncovering salary trends by role, experience, and country.
+- 🔹 [Telco Customer Churn](https://github.com/shifa-parveen/Telco-customer-churn): End-to-end customer churn analysis using Excel, Python, SQL, and Power BI to explore customer behavior, churn rates, revenue, and orders.
+- 🔹 [Phone Usage India](https://github.com/shifa-parveen/Phone-Usage-India): Telecom usage trends project using Excel, Python, SQL, and Power BI to analyze regional patterns in mobile usage.
+- 🔹 [Finance Data ](https://github.com/shifa-parveen/finance_data): Financial behavior analysis using Excel, Python, and SQL to uncover insights into spending, saving, and income trends.
+- 🔹 [Salary Dataset Analysis](https://github.com/shifa-parveen/Salary-Dataset-Analysis): Data exploration and visualization project using Excel, Python, SQL, and Power BI to analyze salary trends by role, experience, and geography.
   
 ---
 
