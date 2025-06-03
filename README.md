@@ -22,12 +22,11 @@ I work with **Python**, **SQL**, **Excel**, and **Power BI** to explore, clean, 
 
 📊 Featured Projects
 
-- 🔹 [E-commerce Sales Dashboard](https://github.com/your-link): Power BI dashboard analyzing revenue, orders, and customer behavior.
+- 🔹 [E-commerce Sales Dashboard](Ehttps://github.com/shifa-parveen/Data-Analysis-project/blob/main/Ecommmerce%20sales%20dashboard.pbix): Power BI dashboard analyzing revenue, orders, and customer behavior.
 - 🔹 [Phone Usage India](https://github.com/your-link): SQL and Python project uncovering telecom usage trends across regions.
 - 🔹 [Finance Data Insights](https://github.com/your-link): Excel + Power BI project analyzing personal spending and financial habits.
-
-> *(More coming soon as I continue learning and building!)*
-
+- 🔹 [Salary Dataset Analysis](https://github.com/shifa-parveen/Data-Projects): Python-based data exploration and visualization project uncovering salary trends by role, experience, and country.
+  
 ---
 
 📬 Let's Connect
